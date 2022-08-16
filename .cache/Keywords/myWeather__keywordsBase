@@ -1,0 +1,120 @@
+{
+  "keywordFileContentHash": "39668E8D8B7730B0C98444AFA250738A",
+  "keywordClasses": [
+    {
+      "name": "myWeather.keywordsBase",
+      "keywordMethods": [
+        {
+          "name": "Connexion",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Verifier_Temperature",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Ajouter_Min_Produit",
+          "parameters": [
+            {
+              "name": "product",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "Choisir_deux_Produits",
+          "parameters": [
+            {
+              "name": "product",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.List",
+                "unresolvedClassName": "List",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "Assert_les_bonnes_Produits",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Saisir_les_données_Paiement",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "makeTO",
+          "parameters": [
+            {
+              "name": "css",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Construct a Katalon-compatible TestObject in memory.\r\n\t * @param css (String) The CSS selector used to find the target element.\r\n\t * @return (TestObject) The constructed TestObject.\r\n\t */"
+        },
+        {
+          "name": "My_sendKeys_by_Key",
+          "parameters": [
+            {
+              "name": "testObjId",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "myText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

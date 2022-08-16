@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case OK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9afbb340-c6ad-4fb5-835f-34f1ef5fe579</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c798f9df-e6e6-4100-b06c-d7bb0bd72a43</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-1</value>
+      </iterationEntity>
+      <testDataId>Data Files/coordonnees_banque/Test Data OK</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

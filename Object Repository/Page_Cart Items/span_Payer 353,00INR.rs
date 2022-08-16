@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Payer 353,00INR</name>
+   <tag></tag>
+   <elementGuidId>22d32b4e-1d00-4a8a-bc7e-c72f0ba49fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submitButton']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.iconTick</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05d06d36-e259-4890-95b3-a4cd514d5f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iconTick</value>
+      <webElementGuid>a50173a1-d59f-452e-ad5d-73ff1a2ec680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payer 353,00 INR ₹</value>
+      <webElementGuid>0f86b85d-2cac-43a1-84da-ca936a6befcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submitButton&quot;)/span[1]/span[@class=&quot;iconTick&quot;]</value>
+      <webElementGuid>16d547e7-7289-4bf7-a8e8-041008d874ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Cart Items/iframe_Qxf2                Services_stripe__2e55a3</value>
+      <webElementGuid>6802a6bd-cb07-44f8-b80b-1325cdb2ca36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='submitButton']/span/span</value>
+      <webElementGuid>30b72166-33e9-4270-b129-53104bc3127b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Example charge'])[1]/following::span[3]</value>
+      <webElementGuid>f222d1bf-52a5-432d-85c7-4e2216d0145d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stripe.com'])[2]/following::span[3]</value>
+      <webElementGuid>6d0fbddd-e892-4865-b8e5-240f376d65ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>5da92c87-c4c5-44ed-ba4e-be710fef2219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Payer 353,00 INR ₹' or . = 'Payer 353,00 INR ₹')]</value>
+      <webElementGuid>033d103c-5abe-4565-8e2f-39de6956e111</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

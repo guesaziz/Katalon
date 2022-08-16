@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite OK</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a6de8a3e-9859-40c5-9e23-d6da90985e39</testSuiteGuid>
+   <testCaseLink>
+      <guid>33e0dcaf-410f-453a-af85-bdf87fed34c4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'5555555544444444'</defaultValue>
+         <description></description>
+         <id>20a4f168-c0f0-4516-af76-9e057118f50e</id>
+         <masked>false</masked>
+         <name>number_Card</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Test Case OK With Keywords - Data</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>57fd3fc0-0a4e-4a26-81a4-d931dd6c44c8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/coordonnees_banque/Test Data OK</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>57fd3fc0-0a4e-4a26-81a4-d931dd6c44c8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>number_Card</value>
+         <variableId>20a4f168-c0f0-4516-af76-9e057118f50e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57fd3fc0-0a4e-4a26-81a4-d931dd6c44c8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expire_Card</value>
+         <variableId>ceb223c5-917e-47e0-b3d0-5530e3f6e9fe</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8494c8e6-59d5-4ea3-80bb-b17040234da8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Case OK</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9345bb61-d1b0-44ed-add8-35a9eec67055</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Case OK With Keywords - Data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>20a4f168-c0f0-4516-af76-9e057118f50e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ceb223c5-917e-47e0-b3d0-5530e3f6e9fe</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
